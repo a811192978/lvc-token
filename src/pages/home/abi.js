@@ -1,0 +1,6 @@
+const abi=[
+
+];
+export {
+  abi
+}
